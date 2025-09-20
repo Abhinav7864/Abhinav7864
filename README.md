@@ -1,5 +1,7 @@
-## Hi there 👋
 
+
+# Hi, I'm Abhinav 👋
+🚀 Full-Stack Developer | 🌱 Learning AI & ML | 💻 Open Source Enthusiast  
 <!--
 **Abhinav7864/Abhinav7864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
